@@ -6,8 +6,8 @@
 
 可以透過以下方式聯繫到我
 
-* IG : jt.9924
-* LI : https://www.linkedin.com/in/li-jinteng/
+* [Instagram](https://www.instagram.com/jt.9924/) : @jt.9924
+* [LinkedIn](https://www.linkedin.com/in/li-jinteng/) : li-jinteng
 
 因為是自我介紹不是履歷，所以把我比較分享的放在最前面。工作經驗放在最後面。
 
@@ -60,7 +60,7 @@
 在眾多後端語言裡，選擇 PHP 只是教我程式的老師說了一句，你想寫網站可以試試 Laravel。
 所以我買了一本 Laravel 入門書學著開 API，沒想到 PHP 現在變成吃飯工具啦。
 
-#### JavaScript -VAR
+#### JavaScript - VAR
 
 > 其實...我曾經是想當純後端的呢...
 >
