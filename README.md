@@ -1,12 +1,13 @@
 # Hi
 
-我是 Jing，加上姓本來應該要念作 Li-Jing，網但常常就變成 Jing-Li，你也可以叫我錦鯉。
+我是 Jing，加上姓本來應該要念作 Li-Jing，但在網路上常常變成 Jing-Li，你也可以叫我錦鯉。
 
-2020 年加入 web 領域，目前在媒體業工作，職位是軟體工程師（Software Engineer），目前專注於 web 領域的開發應用，技能樹點全端（full-stack）。
+2020 年加入 web 領域，目前在媒體業工作，職務是軟體工程師（Software Engineer），目前專注於 web 領域的開發應用，技能樹點全端（full-stack）。
 
 可以透過以下方式聯繫到我
-IG : jt.9924
-LI : https://www.linkedin.com/in/li-jinteng/
+
+* IG : jt.9924
+* LI : https://www.linkedin.com/in/li-jinteng/
 
 因為是自我介紹不是履歷，所以我把我比較分享的放在最前面。工作經驗放在最後面。
 
@@ -21,7 +22,7 @@ LI : https://www.linkedin.com/in/li-jinteng/
 * 目前還是在草創階段，如果你有好點子讓他長大，歡迎你聯繫我。
 
 ### 台北藝術沙龍
-* 一群喜歡藝術的人舉辦藝術社群，提供固定時間與地點（永和區的一個小角落）讓喜歡藝術的人交流成長。
+* 一群喜歡藝術的人所舉辦的社群，提供固定時間與地點（永和區的一個小角落）讓喜歡藝術的人交流成長。
 * 不定期舉辦經驗分享與藝術工作坊。
 
 ## 最近熱衷的事
@@ -30,7 +31,7 @@ LI : https://www.linkedin.com/in/li-jinteng/
 
 ### 技術分享與交流
 * 從踏入 web 領域之後開始迷上分享與交流，原本就喜歡寫 p2 個板紀錄生活，陸續也開始在部落格發表公開的文章。
-
+* 我的文章散散落在：blogger、GitBook、CorderBridge、github，目前還不太想整理(滾動
 
 ## 我的核心
 
@@ -47,6 +48,38 @@ LI : https://www.linkedin.com/in/li-jinteng/
 ### 鋼琴/小提琴
 * 喜歡古典音樂，學過一點樂器，後來就荒廢啦。音樂被放在旁邊更久啦。
 
+## 關注的技術
+
+### Web Full-Stack
+
+#### PHP/Laravel
+
+> 點歪的技能樹，原本只是想了解一下 PHP
+
+在眾多後端語言裡，選擇 PHP 只是教我程式的老師說了一句，你想寫網站可以試試 Laravel。
+所以我買了一本 Laravel 入門書學著開 API，沒想到 PHP 現在變成吃飯工具啦。
+
+#### JavaScript -VAR
+
+> 其實...我曾經是想當純後端的呢...
+> 怎麼越來越往前站了呢？
+
+* 在前端的摸索之路中原本是先從網路上說最好學的 Vue 開始的，但當時學不會。
+* Angular 某一個老闆隨口丟了一句，你之後寫 Angular 吧，於是開始摸索。Angular 官網驚為天人的友善，建置環境方便，學不會 Vue 的我一下子就能用 Angular 做出小專案，差點下一份工作真的往 Angular 發展。
+* 在 Web 實驗室裡打滾三個月開始了 React 之旅。
+
+### Web Server
+
+> 好想更了解網路與伺服器
+
+* 有限的知識與經驗，一直以來都對底層的網路與伺服器很有興趣，這未來希望可以往這各領域邁進！
+* 用 GCE 部屬過 Laravel 網站，開 API
+
+### Database
+
+* 有限的資料庫相關知識與經驗，還在努力學習 >"<
+* 基本的 Redis、RDBMS 使用經驗。
+* Firestore 是學 Angular 的時候自己摸索的服務。前端需要簡單的數據存取，通常會用它。
 
 ## 工作經驗
 
