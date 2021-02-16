@@ -1,37 +1,57 @@
-## Welcome to GitHub Pages
+# Hi
 
-You can use the [editor on GitHub](https://github.com/Jing-Teng/jing-teng.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+我是 Jing，加上姓本來應該要念作 Li-Jing，網但常常就變成 Jing-Li，你也可以叫我錦鯉。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2020 年加入 web 領域，目前在媒體業工作，職位是軟體工程師（Software Engineer），目前專注於 web 領域的開發應用，技能樹點全端（full-stack）。
 
-### Markdown
+可以透過以下方式聯繫到我
+IG : jt.9924
+LI : https://www.linkedin.com/in/li-jinteng/
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+因為是自我介紹不是履歷，所以我把我比較分享的放在最前面。工作經驗放在最後面。
 
-```markdown
-Syntax highlighted code block
+## 正在做的事
 
-# Header 1
-## Header 2
-### Header 3
+> 如果你有興趣加入，可以聯繫我 ^_^
 
-- Bulleted
-- List
+### 枋橋尋寶地圖
+* 枋橋尋寶地圖是與我（Developer）的朋友（Designer）以及枋橋文化協會（Idea）共同製作的戶外實境遊戲。
+我負責產品的企劃、流程以及開發，遊戲的監製由深耕在地多年、有豐富活動經驗與人文知識莊老師擔任。
+* 獲選為2020年「信義房屋-社區一家」優選作品。
+* 目前還是在草創階段，如果你有好點子讓他長大，歡迎你聯繫我。
 
-1. Numbered
-2. List
+### 台北藝術沙龍
+* 一群喜歡藝術的人舉辦藝術社群，提供固定時間與地點（永和區的一個小角落）讓喜歡藝術的人交流成長。
+* 不定期舉辦經驗分享與藝術工作坊。
 
-**Bold** and _Italic_ and `Code` text
+## 最近熱衷的事
 
-[Link](url) and ![Image](src)
-```
+> 不知道會不會持續下去啊
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### 技術分享與交流
+* 從踏入 web 領域之後開始迷上分享與交流，原本就喜歡寫 p2 個板紀錄生活，陸續也開始在部落格發表公開的文章。
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Jing-Teng/jing-teng.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 我的核心
 
-### Support or Contact
+> 就算很久沒有從事也還是很喜歡的事情
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 羽球
+* 大學時期從系隊開始練起，曾經加入過校隊。
+雖然前校隊好像很厲害，但離心目中的校隊程度還有一段距離。
+
+### 水彩/書法
+* 從國小到高中都是美術班，覺得世界上好像還有很多有趣的事情沒做過，決定先放一邊，大學先試試別的東西。實在有點後悔，沒想到一放就是十年。
+* 最喜歡的項目是水彩和書法
+
+### 鋼琴/小提琴
+* 喜歡古典音樂，學過一點樂器，後來就荒廢啦。音樂被放在旁邊更久啦。
+
+
+## 工作經驗
+
+PHP 工程師
+
+1. PHP/Laravel 網站開發
+* 使用 Laravel blade + vue 製作優雅簡潔的媒體網站
+* [這個網站](https://fc.bnext.com.tw/) 由我製作與維護
