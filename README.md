@@ -87,7 +87,7 @@
 
 ## 工作經驗
 
-Full-Stack Software Engineer
+Software Engineer
 
 1. PHP/Laravel 網站開發
 * 使用 Laravel blade + vue 製作優雅簡潔的媒體網站
